@@ -2296,7 +2296,7 @@ td:first-child {
 }
 
 td:nth-child(2n){
-    color: rgb(58, 58, 58);
+    color: rgb(80, 80, 80);
     font-size: medium;
     text-align: right;
 }
